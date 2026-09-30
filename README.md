@@ -179,4 +179,4 @@ El código fue desarrollado como apoyo reproducible para el ejercicio académico
 
 ## Nota sobre uso de IA
 
-El código fue escrito y documentado con el apoyo de Claude Code.
+El código fue escrito y documentado con el apoyo de Claude Code; los cálculos específicos presentados en la tarea y su anexo se comprobaron manualmente para descartar alucinaciones y otros potenciales errores. 
