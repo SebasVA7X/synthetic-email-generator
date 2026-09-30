@@ -176,3 +176,7 @@ detalle_casos.md
 ## Propósito
 
 El código fue desarrollado como apoyo reproducible para el ejercicio académico. Su objetivo es permitir observar cómo cambia la clasificación cuando se consideran únicamente las palabras presentes en un correo frente a un modelo que incorpora también su contexto inmediato.
+
+## Nota sobre uso de IA
+
+El código fue escrito y documentado con el apoyo de Claude Code.
